@@ -1,6 +1,6 @@
 # Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene (ECCV'24)
 
-by Ruiyang Zhang, Hu Zhang, Hang Yu, Zhedong Zheng
+by Ruiyang Zhang, Hu Zhang, Hang Yu, [Zhedong Zheng](https://www.zdzheng.xyz/)
 
 ## Motivation
 ![](.asset/Drawback.jpg)
@@ -77,7 +77,7 @@ Please open an issue if you have any questions about using this repo.
 Our repo is based on [MODEST(CVPR'22)](https://github.com/YurongYou/MODEST), [GroundingDINO(ECCV'24)](https://github.com/IDEA-Research/GroundingDINO), [FGR(ICRA'21)](https://github.com/weiyithu/FGR), [OpenPCDet](https://github.com/open-mmlab/OpenPCDet). Thanks for their great works and open-source effort!
 
 ## Citation
-```
+```bib
 @inproceedings{zhang2024approaching,
   title={Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene},
   author={Zhang, Ruiyang and Zhang, Hu and Yu, Hang and Zheng, Zhedong},
