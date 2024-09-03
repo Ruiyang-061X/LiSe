@@ -1,6 +1,6 @@
 # Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene (ECCV'24)
 
-by Ruiyang Zhang, Hu Zhang, Hang Yu, [Zhedong Zheng](https://www.zdzheng.xyz/)
+by [Ruiyang Zhang](https://ruiyang-061x.github.io/), Hu Zhang, Hang Yu, [Zhedong Zheng](https://www.zdzheng.xyz/)
 
 ## Motivation
 ![](.asset/Drawback.jpg)
